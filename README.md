@@ -9,7 +9,9 @@ https://code-jump.com/
 
 ## 使い方
 1. リポジトリをクローンします
-2. index.html をブラウザで開きます
+2. GitHub上のページを「setting」→「pages」と切り替え、「visit site」をクリックします
+3. Readmeのページが開いたら、見たいサイトのindex.htmlがあるフォルダのURLを、後ろにくっつけます。
+
 
 ## 使用技術
 * HTML5
